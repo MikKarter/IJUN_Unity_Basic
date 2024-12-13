@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7E2296AD-CC99-897D-F446-C9619047D4F4}</ProjectGuid>
+    <ProjectGuid>{29DD7E6F-37A6-390A-AAFF-5179F243B57C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,7 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\MovesForward.cs" />
     <Compile Include="Assets\Scripts\Spin.cs" />
-    <Compile Include="Assets\Scripts\Scale.cs" />
+    <Compile Include="Assets\Scripts\Scaler.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -2,12 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Scale : MonoBehaviour
+public class Scaler : MonoBehaviour
 {
-    [SerializeField] private Vector3 mScale;
+    [SerializeField] private Vector3 _mScale;
 
     private void Update()
     {
-        transform.localScale += mScale;
+        transform.localScale += _mScale;
     }
 }

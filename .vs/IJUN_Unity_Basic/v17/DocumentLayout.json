@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitRep\\IJUN_Unity_Basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29DD7E6F-37A6-390A-AAFF-5179F243B57C}|Assembly-CSharp.csproj|e:\\gitrep\\ijun_unity_basic\\assets\\scripts\\movesforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DD7E6F-37A6-390A-AAFF-5179F243B57C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movesforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DD7E6F-37A6-390A-AAFF-5179F243B57C}|Assembly-CSharp.csproj|e:\\gitrep\\ijun_unity_basic\\assets\\scripts\\scaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DD7E6F-37A6-390A-AAFF-5179F243B57C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovesForward.cs",
+              "DocumentMoniker": "E:\\GitRep\\IJUN_Unity_Basic\\Assets\\Scripts\\MovesForward.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovesForward.cs",
+              "ToolTip": "E:\\GitRep\\IJUN_Unity_Basic\\Assets\\Scripts\\MovesForward.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovesForward.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:18:33.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scaler.cs",
+              "DocumentMoniker": "E:\\GitRep\\IJUN_Unity_Basic\\Assets\\Scripts\\Scaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scaler.cs",
+              "ToolTip": "E:\\GitRep\\IJUN_Unity_Basic\\Assets\\Scripts\\Scaler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scaler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:15:39.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
