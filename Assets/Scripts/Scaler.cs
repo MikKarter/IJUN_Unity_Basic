@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class Scaler : MonoBehaviour
 {
-    [SerializeField] private Vector3 _mScale;
+    [SerializeField] private Vector3 _scale;
 
     private void Update()
     {
-        transform.localScale += _mScale;
+        transform.localScale += _scale;
     }
 }
